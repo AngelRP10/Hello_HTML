@@ -13,4 +13,4 @@
 <h3> 
 <h3>  4. Una vez lo tengas descargado lo podrás editar
 <h3>  
-<h3>  5. Puedes utilizar varios programas como por ejemplo Visual Studio Code.
+<h3>  5. Para editarlo puedes utilizar varios programas como por ejemplo Visual Studio Code.
